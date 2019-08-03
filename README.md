@@ -4,7 +4,6 @@ Supported operators:
 +, -, *, /
 
 To-do:
-Parentheses support
 Implicit muliplicaiton (i.e. 3(3+4) = 21)
 
 
